@@ -16,7 +16,7 @@
 #define WIFI_SSID "TP-LINK_05E0"
 #define WIFI_PASSWORD "84965641062"
 #define FIREBASE_HOST "smarthouse-3760c-default-rtdb.asia-southeast1.firebasedatabase.app"  
-#define FIREBASE_SECRET "d8658807c28b752a11383c56a94e570942e3000f"
+#define FIREBASE_SECRET "******************************************"
 
 // Пины для DS1302
 #define DS1302_RST  14  // D5 (GPIO14)
